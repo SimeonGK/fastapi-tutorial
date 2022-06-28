@@ -1,0 +1,13 @@
+{
+    "settings": {
+        "python.analysis.typeCheckingMode": "strict",
+        "editor.formatOnSaveMode": "file",
+        "editor.formatOnSave": true,
+        "editor.codeActionOnSave": {
+            "source.organizeImports":true
+        },
+        "python.linting.pylintEnable": true,
+        "python.linting.enabled": true,
+        "python.formatting.provider": "black"
+    }
+}
